@@ -13,6 +13,27 @@ Configure TailwindCSS for building responsive, accessible, and visually appealin
 Structure a Next.js project following industry-standard best practices, ensuring scalability and readability.
 Create foundational reusable components and organize assets effectively for real-world applications.
 
+## Key Highlights
+1. **Project Setup**:
+
+* Scaffold a Next.js application named alx-listing-app with TypeScript, ESLint, and TailwindCSS enabled.
+* Configure TailwindCSS using a minimal and clean configuration (tailwind.config.js and globals.css).
+2. **Folder Structure and Reusability**:
+
+* Establish a clean folder structure, including directories for components/, interfaces/, constants/, and public/assets/.
+* Create reusable components such as Card and Button for modularity and scalability.
+3. **TypeScript Integration**:
+
+* Define TypeScript interfaces (CardProps, ButtonProps, etc.) in interfaces/index.ts to ensure type safety and code consistency.
+4. **Asset Management**:
+
+* Organize assets, including images and SVGs, under public/assets/ for easy access and maintenance.
+* From this Figma Mockup
+5. **Documentation and Run Instructions**:
+
+* Create a comprehensive README.md file with details about the project, its goals, folder structure, and steps to run the project locally.
+* Verify the project setup by running it locally and ensuring all configurations work seamlessly.
+
 ## Getting Started
 
 First, run the development server:
